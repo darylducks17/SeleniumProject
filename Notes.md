@@ -1,5 +1,3 @@
-# Notes
-
 ## Web Drivers
 
 ### Downloading Web Drivers
